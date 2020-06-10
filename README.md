@@ -11,3 +11,10 @@ La correlación de variables debe ser guiada por expertos, los cuales determinan
 En la primera parte del taller, se va a obtener los datos, limpiarlos, examinarlos, modelarlos y generar un dataset adecuado para que los algoritmos de aprendizaje de máquinas puedan aprender y predecir. En la segunda parte, vamos a entrenar algoritmos para que predigan diabetes, en pacientes que no pertenecen a la base de datos. Se basa en el modelo ML - O.S.E.M.N. O - Obtaining; Obtener datos S - Scrubbing; Limpiar los datos E - Exploring; Visualizar los datos para encontrar patrones y relaciones. Muchas veces este paso es transversal, en especial con (S) M - Modeling; Modelar los datos para predecir o describir un comportamiento N - INterpreting; Interpretar los resultados de los modelos
 
 Juan Carlos Rincón Acuña, Ph.D, PMP
+
+
+
+****
+
+- Requiere Python 3.x , Jupyter notebooks (se recomienda instalar ANACONDA que ya lo contiene)
+- Se incluye "Manual Acceso.pdf" para ejecutar estos archivos en GOOGLE COLAB sin necesidad de instalar nada localmente

@@ -2,6 +2,8 @@
 
 Introducción a Machine Learning en Salud - Diabetes  (Libros de Jupyter)
 
+Video del taller disponible en https://youtu.be/L2jktNUGwqg
+
 El objetivo principal de Machine Learning (ML) es predecir o describir el comportamiento de elementos medibles de la realidad a partir de información incompleta e incierta. 
 
 Las condiciones de información incompleta e incierta hacen que modelos de las ciencias naturales no sean aplicables. Por eso gran parte de los métodos de ML estarán basados en intuiciones estadísticas y métodos computacionales. 
